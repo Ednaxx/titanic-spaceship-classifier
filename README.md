@@ -5,6 +5,8 @@ Predict which passengers are transported to an alternate dimension
 
 This project is my submission to Kaggle's Getting Started Competition - [**Spaceship Titanic**](https://kaggle.com/competitions/spaceship-titanic)
 
+Current score: **0.7905**
+
 ### Tools used
 
 - Pandas
